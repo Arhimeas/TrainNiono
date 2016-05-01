@@ -14,7 +14,7 @@ public class kjrgbe {
 		switch (str)
 		{
 		case "Niono" :
-			System.out.println(str + " c'est trop bien !");
+			System.out.println(str + " c'est vraiment trop bien !");
 			break;
 		default :
 			System.out.println("Ooooh, " +str+ " c'est vraiment un joli nom ... pas comme Niono !");
